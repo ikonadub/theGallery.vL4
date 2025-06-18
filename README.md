@@ -1,2 +1,2 @@
 # theGallery.vL4
-images update only shows in VScode/online 
+# images update shows only in VScode/online 
