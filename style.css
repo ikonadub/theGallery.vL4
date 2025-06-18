@@ -1,0 +1,61 @@
+/* Base styles for the application */
+body {
+background-color: #6439ff;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-transform: lowercase;  
+  font-size: 2rem;
+  text-align: center;
+  color: #f7f7f7;
+  border-radius: 10px;
+  font-family: "Libre Baskerville", serif; 
+}
+
+ .creative-img {
+  display: block;
+  width: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.creative-img { 
+  border: 5px solid white;
+  width: 50%;
+}
+
+h3 {
+  font-size: 1rem;
+  text-align: center;
+  color: #f7f7f7;
+  font-family: "Libre Baskerville", serif; 
+  margin: 20px auto; /* Adds space around the paragraph */
+  max-width: 800px; /* Limits the width for better readability */
+}
+
+h4 {
+  font-size: 1rem;
+  color: #000000;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  bottom: 0px; /*Positioning from the bottom */
+  width: 100%; /*Ensures footer spans the entire width */
+  background-color: #6439ff; /* Footer background color */
+}
+
+
+ 
+
+
+
+
+
+
+/* Additional styles for better readability */
